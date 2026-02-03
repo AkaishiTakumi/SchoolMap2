@@ -25,3 +25,6 @@ dist-ssr
 
 # Vite extensions
 .vite/*
+
+# Local Netlify folder
+.netlify
